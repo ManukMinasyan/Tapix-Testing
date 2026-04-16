@@ -12,6 +12,5 @@
     <livewire:tapix.wizard
         :importer-class="\App\Importers\ContactImporter::class"
         :return-url="route('contacts.index')"
-        :sample-file="storage_path('app/sample-csv/contacts_clean.csv')"
     />
 </div>

@@ -6121,7 +6121,7 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
@@ -6180,7 +6180,7 @@
                 "portable"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -6204,7 +6204,7 @@
         },
         {
             "name": "symfony/polyfill-intl-grapheme",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-grapheme.git",
@@ -6262,7 +6262,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-grapheme/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-intl-grapheme/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -6286,7 +6286,7 @@
         },
         {
             "name": "symfony/polyfill-intl-idn",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-idn.git",
@@ -6349,7 +6349,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -6373,7 +6373,7 @@
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
@@ -6434,7 +6434,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -6458,7 +6458,7 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
@@ -6519,7 +6519,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -6543,7 +6543,7 @@
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
@@ -6603,7 +6603,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -6627,7 +6627,7 @@
         },
         {
             "name": "symfony/polyfill-php84",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php84.git",
@@ -6683,7 +6683,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php84/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-php84/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -6707,7 +6707,7 @@
         },
         {
             "name": "symfony/polyfill-php85",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php85.git",
@@ -6763,7 +6763,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php85/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-php85/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -6787,7 +6787,7 @@
         },
         {
             "name": "symfony/polyfill-uuid",
-            "version": "v1.35.0",
+            "version": "v1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-uuid.git",
@@ -6846,7 +6846,7 @@
                 "uuid"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-uuid/tree/v1.35.0"
+                "source": "https://github.com/symfony/polyfill-uuid/tree/v1.36.0"
             },
             "funding": [
                 {
@@ -7542,7 +7542,7 @@
                 "type": "zip",
                 "url": "https://composer.tapix.dev/dist/tapix/core/tapix-core-0303d719d88a3d1bb8a7b8617d6e43dbd4469328-zip-4486f8.zip",
                 "reference": "0303d719d88a3d1bb8a7b8617d6e43dbd4469328",
-                "shasum": "48b83e8cd504054db7ec2022133a28c1092f5000"
+                "shasum": "75687ab1f3d8cb0671c8728c1f73322c85ae88dc"
             },
             "require": {
                 "laravel/framework": "^12.0 || ^13.0",
@@ -7613,17 +7613,17 @@
         },
         {
             "name": "tapix/livewire",
-            "version": "v1.0.0-alpha.11",
+            "version": "v1.0.0-alpha.16",
             "source": {
                 "type": "git",
                 "url": "git@github.com:tapix-dev/livewire.git",
-                "reference": "c395040d050561e3378bfc74533275b4f6250d81"
+                "reference": "048162e26d31aeced16c247face22f98d4fab409"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://composer.tapix.dev/dist/tapix/livewire/tapix-livewire-c395040d050561e3378bfc74533275b4f6250d81-zip-3b54e8.zip",
-                "reference": "c395040d050561e3378bfc74533275b4f6250d81",
-                "shasum": "bbf2b891032550cb5e04545a8fd3b8dcdb69606e"
+                "url": "https://composer.tapix.dev/dist/tapix/livewire/tapix-livewire-048162e26d31aeced16c247face22f98d4fab409-zip-b7e63c.zip",
+                "reference": "048162e26d31aeced16c247face22f98d4fab409",
+                "shasum": "dcb7ecd779a396e1a4b5ff8e5853b9598acaa6bb"
             },
             "require": {
                 "filament/actions": "^5.0",
@@ -7631,6 +7631,7 @@
                 "filament/support": "^5.0",
                 "livewire/livewire": "^4.0",
                 "php": "^8.4",
+                "spatie/laravel-package-tools": "^1.9",
                 "tapix/core": "^1.0@alpha"
             },
             "require-dev": {
@@ -7675,7 +7676,7 @@
                 "livewire",
                 "wizard"
             ],
-            "time": "2026-04-15T20:56:20+00:00"
+            "time": "2026-04-16T12:42:33+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
